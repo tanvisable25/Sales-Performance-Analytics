@@ -28,57 +28,19 @@ Is revenue concentrated among a few customers?
 
 📁 Dataset Information
 
-The dataset contains sales transactions with the following fields:
-
-Order Number
-
-Order Date
-
-Customer ID
-
-Sales Channel (Wholesale / Distributor / Export)
-
-Warehouse Code
-
-Delivery Region
-
-Product ID
-
-Order Quantity
-
-Unit Price
-
-Line Total (Revenue)
-
-Total Unit Cost
+The dataset contains sales transactions with the following fields: Order Number, Order Date, Customer ID, Sales Channel (Wholesale / Distributor / Export), Warehouse Code, Delivery Region, Product ID, Order Quantity, Unit Price, Line Total (Revenue), Total Unit Cost
 
 Time Period: 2014–2018
 Records: 60,000+ transactions
 
 🛠 Tools & Technologies Used
 
-Python
-
-Pandas
-
-Matplotlib
-
-Seaborn
-
-Jupyter Notebook
-
-Excel (Data Validation)
+Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook, Excel (Data Validation)
 
 🔎 Analysis Performed
 1️⃣ Data Cleaning
 
-Removed duplicates
-
-Handled missing values
-
-Converted date columns
-
-Validated revenue calculations
+Removed duplicates, Handled missing values, Converted date columns, Validated revenue calculations
 
 2️⃣ Feature Engineering
 
