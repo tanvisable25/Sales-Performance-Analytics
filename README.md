@@ -1,5 +1,6 @@
 
-📊 Sales Analysis Project
+📊Regional Sales Analysis Project
+
 🚀 Project Overview
 
 This project focuses on analyzing multi-channel sales data to uncover revenue trends, profitability insights, customer behavior, and regional performance.
